@@ -6,4 +6,4 @@
  
  Repo only contains scripts written by me and does not include assets or third party libraries.
 
-[View on Portfolio](https://www.ijiro.dev/whitememories](https://www.ijiro.dev/iron-knight)https://www.ijiro.dev/iron-knight)
+[View on Portfolio](https://www.ijiro.dev/iron-knight)
